@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.19.1",
-    "core-js": "^3.4.4",
+    "core-js": "^3.16.1",
     "electron": "^7.2.4",
     "vue": "^2.6.10",
     "vue-clipboard2": "^0.3.1",
