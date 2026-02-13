@@ -10,7 +10,7 @@
     "electron": "electron ."
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^1.13.5",
     "core-js": "^3.4.4",
     "electron": "^7.2.4",
     "vue": "^2.6.10",
